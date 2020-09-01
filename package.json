@@ -1,4 +1,5 @@
 {
+  "homepage": "https://victoria-lo.github.io/react-keys-tutorial",
   "name": "react-keys-tutorial",
   "version": "0.1.0",
   "private": true,
@@ -6,6 +7,7 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "gh-pages": "^3.1.0",
     "random-name": "^0.1.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -13,6 +15,8 @@
     "shortid": "^2.2.15"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
