@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-keys-tutorial/static/css/main.78efe296.chunk.css",
+    "main.js": "/react-keys-tutorial/static/js/main.8594ac08.chunk.js",
+    "main.js.map": "/react-keys-tutorial/static/js/main.8594ac08.chunk.js.map",
+    "runtime-main.js": "/react-keys-tutorial/static/js/runtime-main.ab13b6b6.js",
+    "runtime-main.js.map": "/react-keys-tutorial/static/js/runtime-main.ab13b6b6.js.map",
+    "static/js/2.0aa24dc3.chunk.js": "/react-keys-tutorial/static/js/2.0aa24dc3.chunk.js",
+    "static/js/2.0aa24dc3.chunk.js.map": "/react-keys-tutorial/static/js/2.0aa24dc3.chunk.js.map",
+    "index.html": "/react-keys-tutorial/index.html",
+    "precache-manifest.5fdf641dfa4d079bf5c736289f520af0.js": "/react-keys-tutorial/precache-manifest.5fdf641dfa4d079bf5c736289f520af0.js",
+    "service-worker.js": "/react-keys-tutorial/service-worker.js",
+    "static/css/main.78efe296.chunk.css.map": "/react-keys-tutorial/static/css/main.78efe296.chunk.css.map",
+    "static/js/2.0aa24dc3.chunk.js.LICENSE.txt": "/react-keys-tutorial/static/js/2.0aa24dc3.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-keys-tutorial/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab13b6b6.js",
+    "static/js/2.0aa24dc3.chunk.js",
+    "static/css/main.78efe296.chunk.css",
+    "static/js/main.8594ac08.chunk.js"
+  ]
+}
